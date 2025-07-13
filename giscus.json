@@ -2,8 +2,5 @@
   "origins": [
     "https://acharyamanish.net",
     "https://www.acharyamanish.net"
-  ],
-  "originsRegex": [
-    "http://localhost:[0-9]+"
   ]
 }
