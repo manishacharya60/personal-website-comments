@@ -2,7 +2,9 @@
   "origins": [
     "http://localhost:4000",
     "http://127.0.0.1:4000",
-    "https://YOUR-CUSTOM-DOMAIN.com",
-    "https://www.YOUR-CUSTOM-DOMAIN.com"
+    "https://acharyamanish.net",
+    "https://www.acharyamanish.net",
+    "http://acharyamanish.net",
+    "http://www.acharyamanish.net",
   ]
 }
